@@ -1,86 +1,58 @@
 [
   {
-    "id": "brush-teeth",
-    "title": "晨间刷牙",
+    "id": "clap",
+    "title": "开心鼓掌",
+    "group": "expression",
+    "pose": "Both palms gently meeting at chest height in a small clapping pose, eyes smiling, elbows low, no extra hands.",
+    "action": "0-1秒保持图1统一无道具站姿；1-6秒双手在胸前轻轻鼓掌两三次，开心地眯眼微笑，然后放下双手。掌心不穿插、不拍出特效。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+  },
+  {
+    "id": "thumbs-up",
+    "title": "给你点赞",
+    "group": "expression",
+    "pose": "One hand making a single simple thumbs-up at chest height, other hand relaxed at her side, visible blue eye looking at viewer, encouraging smile.",
+    "action": "0-1秒保持图1统一无道具站姿；1-6秒抬起一只手，竖起一个清晰大拇指，轻轻点头鼓励，再把手放回身侧。手指自然，不张开其他手指。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+  },
+  {
+    "id": "shrug",
+    "title": "摊手小无奈",
+    "group": "expression",
+    "pose": "Both palms facing up beside waist, shoulders slightly raised, head gently tilted, mild cute helpless smile, no symbols.",
+    "action": "0-1秒保持图1统一无道具站姿；1-6秒轻耸肩，双手在腰部两侧掌心朝上摊开，露出一点可爱无奈，再放松恢复微笑。无问号、汗滴或文字。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+  },
+  {
+    "id": "salute",
+    "title": "认真敬礼",
+    "group": "expression",
+    "pose": "One hand held in a neat small salute near forehead without covering visible eye or touching crown, other arm relaxed, earnest smile.",
+    "action": "0-1秒保持图1统一无道具站姿；1-6秒认真站直，一只手在额头旁小幅敬礼，轻轻点头，再放下手。不能移动花饰、遮住眼睛或改变头发。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+  },
+  {
+    "id": "shush",
+    "title": "轻声嘘",
+    "group": "expression",
+    "pose": "One index finger held gently in front of her small closed smiling lips, visible blue eye softly looking at viewer, other hand relaxed. No words or symbols.",
+    "action": "0-1秒保持图1统一无道具站姿；1-6秒把一只手的食指轻放在嘴唇前，温柔地做一次嘘的示意，眨一下眼，再把手放下。无声，不生成文字或气泡。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+  },
+  {
+    "id": "sneeze",
+    "title": "掩口小喷嚏",
     "group": "daily",
-    "pose": "Holding ONE tiny ivory toothbrush gently near mouth in one hand and ONE small lavender rinsing cup at waist in the other hand, smiling, no foam or water.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出小牙刷和淡紫漱口杯，轻轻刷牙两下，再收好。嘴部保持小幅动作，不出现大量泡沫、水流或浴室。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
+    "pose": "One hand gently covering mouth and nose, eyes closed, shoulders slightly tucked, tiny forward head tilt, other hand relaxed. No sneeze particles or droplets.",
+    "action": "0-1秒保持图1统一无道具站姿；1-6秒轻轻缩肩，一只手掩住口鼻，低头打一个很小的喷嚏，然后抬头微笑、放下手。幅度小，无飞沫、纸巾、病菌或额外特效。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
   },
   {
-    "id": "take-notes",
-    "title": "轻快记录",
-    "group": "daily",
-    "pose": "Holding ONE tiny ivory notepad at waist in one hand, writing with ONE short lavender pencil in the other, looking down attentively. No readable writing.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出小记事本和铅笔，低头认真写两笔，抬头满意点头，再收起。纸面无可读文字。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
-  },
-  {
-    "id": "play-car",
-    "title": "玩玩具汽车",
+    "id": "flute",
+    "title": "吹笛子",
     "group": "play",
-    "pose": "Squatting slightly while one hand gently pushes ONE tiny lavender toy car beside her feet, other hand on her own knee, playful smile. Keep full body and identical head size, no room or floor line.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒轻轻蹲下一点，拿出一辆淡紫玩具汽车，在脚边小幅推一次，再收车并站起。汽车不远离角色，不出现大车、马路、额外人或文字。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
+    "pose": "Holding ONE short ivory flute horizontally below mouth with both hands, flute shorter than width of her head, elbows low, calm happy expression. No musical notes.",
+    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出一支短小象牙白笛子，双手持笛在嘴边轻吹两下，手指小幅移动，然后收起。笛子不穿过脸，无音符、音效、文字或额外乐器。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
   },
   {
-    "id": "blow-bubbles",
-    "title": "吹泡泡",
+    "id": "card-trick",
+    "title": "扑克小魔术",
     "group": "play",
-    "pose": "Holding ONE small ivory bubble bottle in one hand and ONE tiny lavender bubble wand in the other close to her mouth, TWO small pale-blue outlined soap bubbles near face. No green props.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出泡泡瓶和小圈，轻吹出两三个淡蓝色小泡泡，看着泡泡消失，再收起瓶和小圈。泡泡不盖住脸，不超过花冠高度。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
-  },
-  {
-    "id": "balloon",
-    "title": "吹气球",
-    "group": "play",
-    "pose": "Holding ONE small lavender balloon with both hands close to chest, balloon no bigger than half her head, cheeks slightly puffed, no string or floating balloon.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒双手拿出一只小淡紫气球，轻轻吹起到半个头大小，开心看看，再放气并收起。气球不飞走，不变巨大，不遮挡脸。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
-  },
-  {
-    "id": "pet-cat",
-    "title": "温柔撸猫",
-    "group": "play",
-    "pose": "ONE tiny ivory kitten with blue-grey ears sitting beside her shoes, she bends slightly and strokes its head with one hand, other hand rests on her own skirt. Cat smaller than one third of her head, no green.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒一只小小的奶白蓝灰色猫咪从裙摆旁出现；微微弯腰，用一只手轻摸猫头两下；猫咪乖巧抬头，然后离开画面，角色恢复站姿。只允许这一只小猫，不出现第二只宠物或其他人物。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
-  },
-  {
-    "id": "magic-flower",
-    "title": "掌心变花",
-    "group": "play",
-    "pose": "Holding ONE small ivory and pink rose with blue-grey leaves above her open palm at chest height, other hand relaxed, delighted smile. No sparkles, no magic circles.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒轻轻张开一只手掌，一朵粉白小玫瑰在掌心渐进出现，开心看一眼，再收起花。只有一朵花，叶片蓝灰色，无绿色、魔法阵、粒子或强光。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
-  },
-  {
-    "id": "gamepad",
-    "title": "玩游戏小懊恼",
-    "group": "play",
-    "pose": "Holding ONE tiny lavender game controller with both hands at waist, mild cute pout, elbows low. No screen or console, no written symbols.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出小手柄，双手轻按两下，露出可爱的小懊恼表情，随后轻笑放松，再收起手柄。表情克制，不摔东西、不增加电视或屏幕。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
-  },
-  {
-    "id": "rice",
-    "title": "吃白饭",
-    "group": "food",
-    "pose": "Holding ONE tiny ivory rice bowl at chest with one hand and ONE short lavender spoon in the other, small scoop of white rice, happy expression. No chopsticks, no table.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出小白饭碗和勺子，轻吃一小口白饭，满足地点头，再收好碗勺。无米粒飞散、无桌椅、无大口吞咽。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
-  },
-  {
-    "id": "watermelon",
-    "title": "吃西瓜",
-    "group": "food",
-    "pose": "Holding ONE tiny seedless pink watermelon slice with pale lavender rind in both hands near chest, happy smile. Absolutely no green rind.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出一小片粉色西瓜，轻轻咬一小口，开心眯眼，再收起。瓜皮为淡紫色，不能是绿色，不滴汁。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
-  },
-  {
-    "id": "candied-fruit",
-    "title": "吃糖葫芦",
-    "group": "food",
-    "pose": "Holding ONE short skewer with exactly THREE small glossy red candied hawthorn berries in one hand at chest height, other hand relaxed. No green decoration.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出一串只有三颗的小糖葫芦，轻轻尝一小口，满足微笑，再收起。竹签短小，不指向眼睛，不飞溅糖浆。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
-  },
-  {
-    "id": "breakfast",
-    "title": "享用早餐",
-    "group": "food",
-    "pose": "Holding ONE tiny ivory plate with a single small golden croissant in one hand at waist, other hand holding a tiny torn bite near mouth, happy closed-mouth smile. No table, no green garnish.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出小碟可颂面包，用另一只手掰一小块尝一口，点头微笑，再收起所有道具。只出现一个小可颂与一小块面包，不出现餐桌、刀叉或饮料。6-7秒收起所有道具、双手回到身侧；7-8秒恢复图1同样睁眼微笑的标准站姿并停稳。固定全身镜头，角色比例、中心及脚底高度保持稳定。"
+    "pose": "Holding exactly THREE small blank ivory playing cards with lavender backs as a small fan at chest height with both hands, playful smile, no readable markings.",
+    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出三张小小的白紫色空白扑克牌，双手在胸前把牌轻轻展开成扇形，再合拢收起，俏皮地微笑。卡牌不飞出、不出现文字数字或额外道具。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
   }
 ]

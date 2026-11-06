@@ -35,7 +35,10 @@
       "happy-blush",
       "confused",
       "heart-hands",
-      "wink"
+      "wink",
+      "clap",
+      "thumbs-up",
+      "salute"
     ],
     "moves": {
       "default": {
@@ -67,7 +70,8 @@
           "hum",
           "fan",
           "brush-teeth",
-          "take-notes"
+          "take-notes",
+          "sneeze"
         ]
       },
       {
@@ -83,7 +87,9 @@
           "balloon",
           "pet-cat",
           "magic-flower",
-          "gamepad"
+          "gamepad",
+          "flute",
+          "card-trick"
         ]
       },
       {
@@ -108,7 +114,12 @@
           "sad-tear",
           "confused",
           "heart-hands",
-          "wink"
+          "wink",
+          "clap",
+          "thumbs-up",
+          "shrug",
+          "salute",
+          "shush"
         ]
       },
       {

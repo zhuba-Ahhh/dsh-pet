@@ -289,277 +289,137 @@
     "Native screenshots sampled transitions; all six work video files were separately verified through real renderer ended receipts."
   ],
   "latestAssets": {
-    "verifiedAt": "2026-11-06T04:06:33.067Z",
-    "assetCount": 59,
+    "verifiedAt": "2026-11-06T04:56:38.563Z",
+    "assetCount": 67,
     "added": [
       {
-        "id": "brush-teeth",
-        "title": "晨间刷牙"
+        "id": "clap",
+        "title": "开心鼓掌"
       },
       {
-        "id": "take-notes",
-        "title": "轻快记录"
+        "id": "thumbs-up",
+        "title": "给你点赞"
       },
       {
-        "id": "play-car",
-        "title": "玩玩具汽车"
+        "id": "shrug",
+        "title": "摊手小无奈"
       },
       {
-        "id": "blow-bubbles",
-        "title": "吹泡泡"
+        "id": "salute",
+        "title": "认真敬礼"
       },
       {
-        "id": "balloon",
-        "title": "吹气球"
+        "id": "shush",
+        "title": "轻声嘘"
       },
       {
-        "id": "pet-cat",
-        "title": "温柔撸猫"
+        "id": "sneeze",
+        "title": "掩口小喷嚏"
       },
       {
-        "id": "magic-flower",
-        "title": "掌心变花"
+        "id": "flute",
+        "title": "吹笛子"
       },
       {
-        "id": "gamepad",
-        "title": "玩游戏小懊恼"
-      },
-      {
-        "id": "rice",
-        "title": "吃白饭"
-      },
-      {
-        "id": "watermelon",
-        "title": "吃西瓜"
-      },
-      {
-        "id": "candied-fruit",
-        "title": "吃糖葫芦"
-      },
-      {
-        "id": "breakfast",
-        "title": "享用早餐"
+        "id": "card-trick",
+        "title": "扑克小魔术"
       }
     ],
     "desktopPlaybackReceipts": [
       {
-        "playbackId": "pb-mw4g7821-1",
+        "playbackId": "pb-mw4hzxbl-d",
         "petId": "rem-bridal-1",
-        "name": "brush-teeth",
+        "name": "clap",
         "status": "ended",
-        "createdAt": 1793937720457,
-        "updatedAt": 1793937728492,
-        "endedAt": 1793937728492,
+        "createdAt": 1793940739185,
+        "updatedAt": 1793940747208,
+        "endedAt": 1793940747208,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4g7e9g-2",
+        "playbackId": "pb-mw4i03ip-e",
         "petId": "rem-bridal-1",
-        "name": "take-notes",
+        "name": "thumbs-up",
         "status": "ended",
-        "createdAt": 1793937728500,
-        "updatedAt": 1793937736538,
-        "endedAt": 1793937736538,
+        "createdAt": 1793940747217,
+        "updatedAt": 1793940755248,
+        "endedAt": 1793940755248,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4g7kh0-3",
+        "playbackId": "pb-mw4i09py-f",
         "petId": "rem-bridal-1",
-        "name": "play-car",
+        "name": "shrug",
         "status": "ended",
-        "createdAt": 1793937736548,
-        "updatedAt": 1793937744579,
-        "endedAt": 1793937744579,
+        "createdAt": 1793940755254,
+        "updatedAt": 1793940763292,
+        "endedAt": 1793940763292,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4g7qo9-4",
+        "playbackId": "pb-mw4i0fxg-g",
         "petId": "rem-bridal-1",
-        "name": "blow-bubbles",
+        "name": "salute",
         "status": "ended",
-        "createdAt": 1793937744585,
-        "updatedAt": 1793937752608,
-        "endedAt": 1793937752608,
+        "createdAt": 1793940763300,
+        "updatedAt": 1793940771327,
+        "endedAt": 1793940771327,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4g7wv9-5",
+        "playbackId": "pb-mw4i174s-h",
         "petId": "rem-bridal-1",
-        "name": "balloon",
+        "name": "shush",
         "status": "ended",
-        "createdAt": 1793937752613,
-        "updatedAt": 1793937760640,
-        "endedAt": 1793937760640,
+        "createdAt": 1793940798556,
+        "updatedAt": 1793940806584,
+        "endedAt": 1793940806584,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4g832f-6",
+        "playbackId": "pb-mw4i1dc2-i",
         "petId": "rem-bridal-1",
-        "name": "pet-cat",
+        "name": "sneeze",
         "status": "ended",
-        "createdAt": 1793937760647,
-        "updatedAt": 1793937768678,
-        "endedAt": 1793937768678,
+        "createdAt": 1793940806594,
+        "updatedAt": 1793940814627,
+        "endedAt": 1793940814627,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4g8mx3-7",
+        "playbackId": "pb-mw4i1jjd-j",
         "petId": "rem-bridal-1",
-        "name": "magic-flower",
+        "name": "flute",
         "status": "ended",
-        "createdAt": 1793937786375,
-        "updatedAt": 1793937794408,
-        "endedAt": 1793937794408,
+        "createdAt": 1793940814633,
+        "updatedAt": 1793940822652,
+        "endedAt": 1793940822652,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4g8t4h-8",
+        "playbackId": "pb-mw4i1pqc-k",
         "petId": "rem-bridal-1",
-        "name": "gamepad",
+        "name": "card-trick",
         "status": "ended",
-        "createdAt": 1793937794417,
-        "updatedAt": 1793937802445,
-        "endedAt": 1793937802445,
-        "matched": true
-      },
-      {
-        "playbackId": "pb-mw4g8zbp-9",
-        "petId": "rem-bridal-1",
-        "name": "rice",
-        "status": "ended",
-        "createdAt": 1793937802453,
-        "updatedAt": 1793937810481,
-        "endedAt": 1793937810481,
-        "matched": true
-      },
-      {
-        "playbackId": "pb-mw4g95iv-a",
-        "petId": "rem-bridal-1",
-        "name": "watermelon",
-        "status": "ended",
-        "createdAt": 1793937810487,
-        "updatedAt": 1793937818515,
-        "endedAt": 1793937818515,
-        "matched": true
-      },
-      {
-        "playbackId": "pb-mw4g9bq6-b",
-        "petId": "rem-bridal-1",
-        "name": "candied-fruit",
-        "status": "ended",
-        "createdAt": 1793937818526,
-        "updatedAt": 1793937826558,
-        "endedAt": 1793937826558,
-        "matched": true
-      },
-      {
-        "playbackId": "pb-mw4g9hxh-c",
-        "petId": "rem-bridal-1",
-        "name": "breakfast",
-        "status": "ended",
-        "createdAt": 1793937826565,
-        "updatedAt": 1793937834600,
-        "endedAt": 1793937834600,
+        "createdAt": 1793940822660,
+        "updatedAt": 1793940830693,
+        "endedAt": 1793940830693,
         "matched": true
       }
     ],
     "browser": {
-      "cards": 59,
-      "videoElements": 60,
+      "cards": 67,
+      "videoElements": 68,
       "allDecodedAt640x360": true,
       "mediaErrors": 0,
-      "selectedCase": "pet-cat"
+      "selectedCase": "card-trick"
     },
+    "clickReactions": 12,
     "allAssetsFormatChecked": true,
-    "previous47VideoFilesUnchanged": true,
+    "previous59VideoFilesUnchanged": true,
     "sleepAndWorkMappingsUnchanged": true,
     "technicalChecks": {
-      "gamepad": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          219,
-          62,
-          421,
-          330
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.623,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "brush-teeth": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          219,
-          64,
-          425,
-          331
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.657,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "take-notes": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          219,
-          64,
-          421,
-          331
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.695,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "play-car": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          202,
-          61,
-          426,
-          331
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.718,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "blow-bubbles": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          115,
-          60,
-          425,
-          330
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.701,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "balloon": {
+      "clap": {
         "frames": 192,
         "canvas": [
           640,
@@ -567,101 +427,33 @@
         ],
         "allFrameBounds": [
           217,
-          61,
-          421,
-          330
+          63,
+          423,
+          331
         ],
         "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.76,
+        "firstLastMeanRgbaDifference": 0.763,
         "visualReview": "四帧抽查通过；非逐帧人审",
         "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
       },
-      "pet-cat": {
+      "thumbs-up": {
         "frames": 192,
         "canvas": [
           640,
           360
         ],
         "allFrameBounds": [
-          155,
-          64,
-          422,
-          352
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.705,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "magic-flower": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          219,
+          217,
           62,
-          422,
+          423,
           330
         ],
         "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.65,
+        "firstLastMeanRgbaDifference": 0.597,
         "visualReview": "四帧抽查通过；非逐帧人审",
         "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
       },
-      "candied-fruit": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          219,
-          64,
-          430,
-          330
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.623,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "rice": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          218,
-          63,
-          422,
-          331
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.859,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "watermelon": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          219,
-          63,
-          422,
-          331
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.671,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "breakfast": {
+      "shrug": {
         "frames": 192,
         "canvas": [
           640,
@@ -669,12 +461,97 @@
         ],
         "allFrameBounds": [
           216,
+          60,
+          421,
+          330
+        ],
+        "distinctFrames": 192,
+        "firstLastMeanRgbaDifference": 0.731,
+        "visualReview": "四帧抽查通过；非逐帧人审",
+        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+      },
+      "shush": {
+        "frames": 192,
+        "canvas": [
+          640,
+          360
+        ],
+        "allFrameBounds": [
+          219,
           62,
+          421,
+          330
+        ],
+        "distinctFrames": 192,
+        "firstLastMeanRgbaDifference": 0.579,
+        "visualReview": "四帧抽查通过；非逐帧人审",
+        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+      },
+      "sneeze": {
+        "frames": 192,
+        "canvas": [
+          640,
+          360
+        ],
+        "allFrameBounds": [
+          218,
+          61,
+          422,
+          330
+        ],
+        "distinctFrames": 192,
+        "firstLastMeanRgbaDifference": 0.64,
+        "visualReview": "四帧抽查通过；非逐帧人审",
+        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+      },
+      "salute": {
+        "frames": 192,
+        "canvas": [
+          640,
+          360
+        ],
+        "allFrameBounds": [
+          219,
+          64,
+          421,
+          331
+        ],
+        "distinctFrames": 192,
+        "firstLastMeanRgbaDifference": 0.653,
+        "visualReview": "四帧抽查通过；非逐帧人审",
+        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+      },
+      "flute": {
+        "frames": 192,
+        "canvas": [
+          640,
+          360
+        ],
+        "allFrameBounds": [
+          219,
+          63,
           422,
           331
         ],
         "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.719,
+        "firstLastMeanRgbaDifference": 0.64,
+        "visualReview": "四帧抽查通过；非逐帧人审",
+        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+      },
+      "card-trick": {
+        "frames": 192,
+        "canvas": [
+          640,
+          360
+        ],
+        "allFrameBounds": [
+          219,
+          63,
+          421,
+          331
+        ],
+        "distinctFrames": 192,
+        "firstLastMeanRgbaDifference": 0.636,
         "visualReview": "四帧抽查通过；非逐帧人审",
         "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
       }
@@ -685,7 +562,7 @@
     "finalDirectory": "/Users/bytedance/Data/workplace/dsh-pet/output/rem-bridal-final",
     "oldIntermediateDirectoriesRemoved": 8,
     "oldIntermediateBytesRemoved": 349832639,
-    "additionalTemporaryBytesRemoved": 175199347,
+    "additionalTemporaryBytesRemoved": 218542323,
     "sourceCodeAndBuiltInPetsUnchanged": true
   },
   "assetBatches": [
@@ -1079,6 +956,399 @@
           "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
         }
       }
+    },
+    {
+      "verifiedAt": "2026-11-06T04:06:33.067Z",
+      "assetCount": 59,
+      "added": [
+        {
+          "id": "brush-teeth",
+          "title": "晨间刷牙"
+        },
+        {
+          "id": "take-notes",
+          "title": "轻快记录"
+        },
+        {
+          "id": "play-car",
+          "title": "玩玩具汽车"
+        },
+        {
+          "id": "blow-bubbles",
+          "title": "吹泡泡"
+        },
+        {
+          "id": "balloon",
+          "title": "吹气球"
+        },
+        {
+          "id": "pet-cat",
+          "title": "温柔撸猫"
+        },
+        {
+          "id": "magic-flower",
+          "title": "掌心变花"
+        },
+        {
+          "id": "gamepad",
+          "title": "玩游戏小懊恼"
+        },
+        {
+          "id": "rice",
+          "title": "吃白饭"
+        },
+        {
+          "id": "watermelon",
+          "title": "吃西瓜"
+        },
+        {
+          "id": "candied-fruit",
+          "title": "吃糖葫芦"
+        },
+        {
+          "id": "breakfast",
+          "title": "享用早餐"
+        }
+      ],
+      "desktopPlaybackReceipts": [
+        {
+          "playbackId": "pb-mw4g7821-1",
+          "petId": "rem-bridal-1",
+          "name": "brush-teeth",
+          "status": "ended",
+          "createdAt": 1793937720457,
+          "updatedAt": 1793937728492,
+          "endedAt": 1793937728492,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g7e9g-2",
+          "petId": "rem-bridal-1",
+          "name": "take-notes",
+          "status": "ended",
+          "createdAt": 1793937728500,
+          "updatedAt": 1793937736538,
+          "endedAt": 1793937736538,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g7kh0-3",
+          "petId": "rem-bridal-1",
+          "name": "play-car",
+          "status": "ended",
+          "createdAt": 1793937736548,
+          "updatedAt": 1793937744579,
+          "endedAt": 1793937744579,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g7qo9-4",
+          "petId": "rem-bridal-1",
+          "name": "blow-bubbles",
+          "status": "ended",
+          "createdAt": 1793937744585,
+          "updatedAt": 1793937752608,
+          "endedAt": 1793937752608,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g7wv9-5",
+          "petId": "rem-bridal-1",
+          "name": "balloon",
+          "status": "ended",
+          "createdAt": 1793937752613,
+          "updatedAt": 1793937760640,
+          "endedAt": 1793937760640,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g832f-6",
+          "petId": "rem-bridal-1",
+          "name": "pet-cat",
+          "status": "ended",
+          "createdAt": 1793937760647,
+          "updatedAt": 1793937768678,
+          "endedAt": 1793937768678,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g8mx3-7",
+          "petId": "rem-bridal-1",
+          "name": "magic-flower",
+          "status": "ended",
+          "createdAt": 1793937786375,
+          "updatedAt": 1793937794408,
+          "endedAt": 1793937794408,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g8t4h-8",
+          "petId": "rem-bridal-1",
+          "name": "gamepad",
+          "status": "ended",
+          "createdAt": 1793937794417,
+          "updatedAt": 1793937802445,
+          "endedAt": 1793937802445,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g8zbp-9",
+          "petId": "rem-bridal-1",
+          "name": "rice",
+          "status": "ended",
+          "createdAt": 1793937802453,
+          "updatedAt": 1793937810481,
+          "endedAt": 1793937810481,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g95iv-a",
+          "petId": "rem-bridal-1",
+          "name": "watermelon",
+          "status": "ended",
+          "createdAt": 1793937810487,
+          "updatedAt": 1793937818515,
+          "endedAt": 1793937818515,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g9bq6-b",
+          "petId": "rem-bridal-1",
+          "name": "candied-fruit",
+          "status": "ended",
+          "createdAt": 1793937818526,
+          "updatedAt": 1793937826558,
+          "endedAt": 1793937826558,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4g9hxh-c",
+          "petId": "rem-bridal-1",
+          "name": "breakfast",
+          "status": "ended",
+          "createdAt": 1793937826565,
+          "updatedAt": 1793937834600,
+          "endedAt": 1793937834600,
+          "matched": true
+        }
+      ],
+      "browser": {
+        "cards": 59,
+        "videoElements": 60,
+        "allDecodedAt640x360": true,
+        "mediaErrors": 0,
+        "selectedCase": "pet-cat"
+      },
+      "allAssetsFormatChecked": true,
+      "previous47VideoFilesUnchanged": true,
+      "sleepAndWorkMappingsUnchanged": true,
+      "technicalChecks": {
+        "gamepad": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            219,
+            62,
+            421,
+            330
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.623,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "brush-teeth": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            219,
+            64,
+            425,
+            331
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.657,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "take-notes": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            219,
+            64,
+            421,
+            331
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.695,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "play-car": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            202,
+            61,
+            426,
+            331
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.718,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "blow-bubbles": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            115,
+            60,
+            425,
+            330
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.701,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "balloon": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            217,
+            61,
+            421,
+            330
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.76,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "pet-cat": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            155,
+            64,
+            422,
+            352
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.705,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "magic-flower": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            219,
+            62,
+            422,
+            330
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.65,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "candied-fruit": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            219,
+            64,
+            430,
+            330
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.623,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "rice": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            218,
+            63,
+            422,
+            331
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.859,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "watermelon": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            219,
+            63,
+            422,
+            331
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.671,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "breakfast": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            216,
+            62,
+            422,
+            331
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.719,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        }
+      },
+      "validationLockReleased": true
     }
   ]
 }
