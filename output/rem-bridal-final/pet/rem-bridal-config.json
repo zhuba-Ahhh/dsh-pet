@@ -1,0 +1,169 @@
+{
+  "pets": [
+    {
+      "id": "rem-bridal-1",
+      "name": "花嫁蕾姆",
+      "size": 462,
+      "balanceEnabled": false,
+      "whisperEnabled": false,
+      "workStatusEnabled": true,
+      "fixedEnabled": false,
+      "display": "both",
+      "position": {
+        "corner": "bottom-right",
+        "marginX": 24,
+        "marginY": 24
+      }
+    }
+  ],
+  "animations": {
+    "idle": [
+      "idle"
+    ],
+    "turn": [
+      "turn"
+    ],
+    "drag": [
+      "drag"
+    ],
+    "clicks": [
+      "shy",
+      "wave",
+      "jump",
+      "giggle",
+      "pout",
+      "happy-blush",
+      "confused",
+      "heart-hands",
+      "wink"
+    ],
+    "moves": {
+      "default": {
+        "minDist": 60,
+        "maxDist": 160,
+        "margin": 20,
+        "leadSec": 1,
+        "tailSec": 1
+      },
+      "actions": [
+        {
+          "name": "walk"
+        }
+      ]
+    },
+    "categories": [
+      {
+        "id": "小动作",
+        "weight": 14,
+        "actions": [
+          "curtsey",
+          "veil-adjust",
+          "skirt-smooth",
+          "mirror",
+          "yawn",
+          "startle",
+          "bouquet",
+          "stretch",
+          "hum",
+          "fan",
+          "brush-teeth",
+          "take-notes"
+        ]
+      },
+      {
+        "id": "玩耍",
+        "weight": 8,
+        "actions": [
+          "open-gift",
+          "gentle-dance",
+          "rubik",
+          "violin",
+          "play-car",
+          "blow-bubbles",
+          "balloon",
+          "pet-cat",
+          "magic-flower",
+          "gamepad"
+        ]
+      },
+      {
+        "id": "吃什么",
+        "weight": 4,
+        "actions": [
+          "serve-tea",
+          "eat-cake",
+          "ice-cream",
+          "rice",
+          "watermelon",
+          "candied-fruit",
+          "breakfast"
+        ]
+      },
+      {
+        "id": "表情点播",
+        "weight": 0,
+        "actions": [
+          "pout",
+          "happy-blush",
+          "sad-tear",
+          "confused",
+          "heart-hands",
+          "wink"
+        ]
+      },
+      {
+        "id": "节日点播",
+        "weight": 0,
+        "actions": [
+          "birthday-cake",
+          "moon-viewing",
+          "decorate-tree",
+          "red-envelope"
+        ]
+      }
+    ],
+    "events": {
+      "balance": [
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle",
+        "idle"
+      ],
+      "whisper": [
+        "chat-front",
+        "chat-clean",
+        "chat-daydream"
+      ],
+      "workStatus": [
+        "work-thinking",
+        "work-working",
+        "work-result",
+        "work-waiting",
+        "work-success",
+        "work-error"
+      ]
+    },
+    "sleep": [
+      {
+        "start": [
+          "sleep-start"
+        ],
+        "loop": [
+          "sleep-loop"
+        ],
+        "end": [
+          "wake"
+        ]
+      }
+    ]
+  },
+  "animationWeights": {
+    "idle": 64,
+    "turn": 3,
+    "move": 7
+  },
+  "chatAnimationEnabled": false,
+  "clickSoundEnabled": false
+}
