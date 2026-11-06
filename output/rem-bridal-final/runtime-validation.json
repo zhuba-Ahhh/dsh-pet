@@ -289,171 +289,153 @@
     "Native screenshots sampled transitions; all six work video files were separately verified through real renderer ended receipts."
   ],
   "latestAssets": {
-    "verifiedAt": "2026-11-06T04:56:38.563Z",
-    "assetCount": 67,
+    "verifiedAt": "2026-11-06T06:26:38.229Z",
+    "assetCount": 75,
     "added": [
       {
-        "id": "clap",
-        "title": "开心鼓掌"
+        "id": "elegant-dance",
+        "title": "优雅女仆舞",
+        "referenceFile": "dsh-pet/assets/webm/优雅女仆舞.webm",
+        "referenceSha256": "74209c4c668545ab1e2366e0d1c0709b7bea0312eeba7e89b553d5b977bfe649"
       },
       {
-        "id": "thumbs-up",
-        "title": "给你点赞"
+        "id": "otaku-dance",
+        "title": "可爱宅舞",
+        "referenceFile": "dsh-pet/assets/webm/可爱宅舞.webm",
+        "referenceSha256": "4f737e44ea67c20368bdce474b951902c87c37991fb0750da8ed7794df6ec55c"
       },
       {
-        "id": "shrug",
-        "title": "摊手小无奈"
+        "id": "shuttlecock",
+        "title": "踢毽子",
+        "referenceFile": "dsh-pet/assets/webm/踢毽子.webm",
+        "referenceSha256": "68937b619a44e9ca7ccdfe77e5657f7a9bfa238beb33768378b6f254a16f3dbd"
       },
       {
-        "id": "salute",
-        "title": "认真敬礼"
+        "id": "gomoku",
+        "title": "下五子棋",
+        "referenceFile": "dsh-pet/assets/webm/下五子棋.webm",
+        "referenceSha256": "0802b6b808f44846b3d194a857fb0ffd38bdea2d7cdb91c9e5e6f311e44f1953"
       },
       {
-        "id": "shush",
-        "title": "轻声嘘"
+        "id": "sneaky-snack",
+        "title": "偷吃零食被抓住",
+        "referenceFile": "dsh-pet/assets/webm/偷吃零食被抓住.webm",
+        "referenceSha256": "c3b783351ad38fdd931e80b188ecb12d273f21e4794aed2c41f267bdb75ff897"
       },
       {
-        "id": "sneeze",
-        "title": "掩口小喷嚏"
+        "id": "meal-wait",
+        "title": "期待开饭",
+        "referenceFile": "dsh-pet/assets/webm/期待开饭.webm",
+        "referenceSha256": "4999759c8c32af0b5400518084ade31c9445c4e5e3ea40218efa28f2e79d9c3e"
       },
       {
-        "id": "flute",
-        "title": "吹笛子"
+        "id": "snowman",
+        "title": "堆雪人",
+        "referenceFile": "dsh-pet/assets/webm/堆雪人.webm",
+        "referenceSha256": "478bdc31cc60e55e3efa139b81c7d8680a8cf83aca2304495e6da50a20a09cf5"
       },
       {
-        "id": "card-trick",
-        "title": "扑克小魔术"
+        "id": "halloween-lantern",
+        "title": "讨糖南瓜灯",
+        "referenceFile": "dsh-pet/assets/webm/讨糖南瓜灯.webm",
+        "referenceSha256": "9535d1a29f780aa2d78ffaabd7ee1765952bf34b2b380e9edc25dc6a3003070b"
       }
     ],
+    "referenceInventoryCount": 114,
     "desktopPlaybackReceipts": [
       {
-        "playbackId": "pb-mw4hzxbl-d",
+        "playbackId": "pb-mw4l54py-l",
         "petId": "rem-bridal-1",
-        "name": "clap",
+        "name": "elegant-dance",
         "status": "ended",
-        "createdAt": 1793940739185,
-        "updatedAt": 1793940747208,
-        "endedAt": 1793940747208,
+        "createdAt": 1793946020902,
+        "updatedAt": 1793946028937,
+        "endedAt": 1793946028937,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4i03ip-e",
+        "playbackId": "pb-mw4l5axe-m",
         "petId": "rem-bridal-1",
-        "name": "thumbs-up",
+        "name": "otaku-dance",
         "status": "ended",
-        "createdAt": 1793940747217,
-        "updatedAt": 1793940755248,
-        "endedAt": 1793940755248,
+        "createdAt": 1793946028946,
+        "updatedAt": 1793946036978,
+        "endedAt": 1793946036978,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4i09py-f",
+        "playbackId": "pb-mw4l5h4n-n",
         "petId": "rem-bridal-1",
-        "name": "shrug",
+        "name": "shuttlecock",
         "status": "ended",
-        "createdAt": 1793940755254,
-        "updatedAt": 1793940763292,
-        "endedAt": 1793940763292,
+        "createdAt": 1793946036983,
+        "updatedAt": 1793946045009,
+        "endedAt": 1793946045009,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4i0fxg-g",
+        "playbackId": "pb-mw4l5nbt-o",
         "petId": "rem-bridal-1",
-        "name": "salute",
+        "name": "gomoku",
         "status": "ended",
-        "createdAt": 1793940763300,
-        "updatedAt": 1793940771327,
-        "endedAt": 1793940771327,
+        "createdAt": 1793946045017,
+        "updatedAt": 1793946053050,
+        "endedAt": 1793946053050,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4i174s-h",
+        "playbackId": "pb-mw4l6fbw-p",
         "petId": "rem-bridal-1",
-        "name": "shush",
+        "name": "sneaky-snack",
         "status": "ended",
-        "createdAt": 1793940798556,
-        "updatedAt": 1793940806584,
-        "endedAt": 1793940806584,
+        "createdAt": 1793946081308,
+        "updatedAt": 1793946089339,
+        "endedAt": 1793946089339,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4i1dc2-i",
+        "playbackId": "pb-mw4l6lj7-q",
         "petId": "rem-bridal-1",
-        "name": "sneeze",
+        "name": "meal-wait",
         "status": "ended",
-        "createdAt": 1793940806594,
-        "updatedAt": 1793940814627,
-        "endedAt": 1793940814627,
+        "createdAt": 1793946089347,
+        "updatedAt": 1793946097375,
+        "endedAt": 1793946097375,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4i1jjd-j",
+        "playbackId": "pb-mw4l6rqa-r",
         "petId": "rem-bridal-1",
-        "name": "flute",
+        "name": "snowman",
         "status": "ended",
-        "createdAt": 1793940814633,
-        "updatedAt": 1793940822652,
-        "endedAt": 1793940822652,
+        "createdAt": 1793946097378,
+        "updatedAt": 1793946105403,
+        "endedAt": 1793946105403,
         "matched": true
       },
       {
-        "playbackId": "pb-mw4i1pqc-k",
+        "playbackId": "pb-mw4l6xxl-s",
         "petId": "rem-bridal-1",
-        "name": "card-trick",
+        "name": "halloween-lantern",
         "status": "ended",
-        "createdAt": 1793940822660,
-        "updatedAt": 1793940830693,
-        "endedAt": 1793940830693,
+        "createdAt": 1793946105417,
+        "updatedAt": 1793946113445,
+        "endedAt": 1793946113445,
         "matched": true
       }
     ],
     "browser": {
-      "cards": 67,
-      "videoElements": 68,
+      "cards": 75,
+      "videoElements": 76,
       "allDecodedAt640x360": true,
-      "mediaErrors": 0,
-      "selectedCase": "card-trick"
+      "mediaErrors": 0
     },
-    "clickReactions": 12,
     "allAssetsFormatChecked": true,
-    "previous59VideoFilesUnchanged": true,
+    "previous67VideoFilesUnchanged": true,
     "sleepAndWorkMappingsUnchanged": true,
+    "seasonalActionsManualOnly": true,
     "technicalChecks": {
-      "clap": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          217,
-          63,
-          423,
-          331
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.763,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "thumbs-up": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          217,
-          62,
-          423,
-          330
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.597,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "shrug": {
+      "elegant-dance": {
         "frames": 192,
         "canvas": [
           640,
@@ -462,15 +444,66 @@
         "allFrameBounds": [
           216,
           60,
-          421,
-          330
+          424,
+          332
         ],
         "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.731,
+        "firstLastMeanRgbaDifference": 0.694,
         "visualReview": "四帧抽查通过；非逐帧人审",
         "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
       },
-      "shush": {
+      "sneaky-snack": {
+        "frames": 192,
+        "canvas": [
+          640,
+          360
+        ],
+        "allFrameBounds": [
+          213,
+          59,
+          426,
+          331
+        ],
+        "distinctFrames": 192,
+        "firstLastMeanRgbaDifference": 0.65,
+        "visualReview": "四帧抽查通过；非逐帧人审",
+        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+      },
+      "otaku-dance": {
+        "frames": 192,
+        "canvas": [
+          640,
+          360
+        ],
+        "allFrameBounds": [
+          216,
+          62,
+          424,
+          331
+        ],
+        "distinctFrames": 192,
+        "firstLastMeanRgbaDifference": 0.699,
+        "visualReview": "四帧抽查通过；非逐帧人审",
+        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+      },
+      "shuttlecock": {
+        "frames": 192,
+        "canvas": [
+          640,
+          360
+        ],
+        "allFrameBounds": [
+          216,
+          62,
+          426,
+          332
+        ],
+        "distinctFrames": 192,
+        "firstLastMeanRgbaDifference": 0.646,
+        "visualReview": "四帧抽查通过；非逐帧人审",
+        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+      },
+      "gomoku": {
         "frames": 192,
         "canvas": [
           640,
@@ -478,33 +511,33 @@
         ],
         "allFrameBounds": [
           219,
-          62,
+          63,
           421,
-          330
+          331
         ],
         "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.579,
+        "firstLastMeanRgbaDifference": 1.127,
         "visualReview": "四帧抽查通过；非逐帧人审",
         "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
       },
-      "sneeze": {
+      "meal-wait": {
         "frames": 192,
         "canvas": [
           640,
           360
         ],
         "allFrameBounds": [
-          218,
-          61,
-          422,
-          330
+          219,
+          63,
+          421,
+          331
         ],
         "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.64,
+        "firstLastMeanRgbaDifference": 0.648,
         "visualReview": "四帧抽查通过；非逐帧人审",
         "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
       },
-      "salute": {
+      "halloween-lantern": {
         "frames": 192,
         "canvas": [
           640,
@@ -514,44 +547,27 @@
           219,
           64,
           421,
-          331
+          330
         ],
         "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.653,
+        "firstLastMeanRgbaDifference": 0.604,
         "visualReview": "四帧抽查通过；非逐帧人审",
         "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
       },
-      "flute": {
+      "snowman": {
         "frames": 192,
         "canvas": [
           640,
           360
         ],
         "allFrameBounds": [
-          219,
+          215,
           63,
-          422,
+          423,
           331
         ],
         "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.64,
-        "visualReview": "四帧抽查通过；非逐帧人审",
-        "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
-      },
-      "card-trick": {
-        "frames": 192,
-        "canvas": [
-          640,
-          360
-        ],
-        "allFrameBounds": [
-          219,
-          63,
-          421,
-          331
-        ],
-        "distinctFrames": 192,
-        "firstLastMeanRgbaDifference": 0.636,
+        "firstLastMeanRgbaDifference": 0.692,
         "visualReview": "四帧抽查通过；非逐帧人审",
         "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
       }
@@ -562,7 +578,7 @@
     "finalDirectory": "/Users/bytedance/Data/workplace/dsh-pet/output/rem-bridal-final",
     "oldIntermediateDirectoriesRemoved": 8,
     "oldIntermediateBytesRemoved": 349832639,
-    "additionalTemporaryBytesRemoved": 218542323,
+    "additionalTemporaryBytesRemoved": 260041640,
     "sourceCodeAndBuiltInPetsUnchanged": true
   },
   "assetBatches": [
@@ -1344,6 +1360,276 @@
           ],
           "distinctFrames": 192,
           "firstLastMeanRgbaDifference": 0.719,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        }
+      },
+      "validationLockReleased": true
+    },
+    {
+      "verifiedAt": "2026-11-06T04:56:38.563Z",
+      "assetCount": 67,
+      "added": [
+        {
+          "id": "clap",
+          "title": "开心鼓掌"
+        },
+        {
+          "id": "thumbs-up",
+          "title": "给你点赞"
+        },
+        {
+          "id": "shrug",
+          "title": "摊手小无奈"
+        },
+        {
+          "id": "salute",
+          "title": "认真敬礼"
+        },
+        {
+          "id": "shush",
+          "title": "轻声嘘"
+        },
+        {
+          "id": "sneeze",
+          "title": "掩口小喷嚏"
+        },
+        {
+          "id": "flute",
+          "title": "吹笛子"
+        },
+        {
+          "id": "card-trick",
+          "title": "扑克小魔术"
+        }
+      ],
+      "desktopPlaybackReceipts": [
+        {
+          "playbackId": "pb-mw4hzxbl-d",
+          "petId": "rem-bridal-1",
+          "name": "clap",
+          "status": "ended",
+          "createdAt": 1793940739185,
+          "updatedAt": 1793940747208,
+          "endedAt": 1793940747208,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4i03ip-e",
+          "petId": "rem-bridal-1",
+          "name": "thumbs-up",
+          "status": "ended",
+          "createdAt": 1793940747217,
+          "updatedAt": 1793940755248,
+          "endedAt": 1793940755248,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4i09py-f",
+          "petId": "rem-bridal-1",
+          "name": "shrug",
+          "status": "ended",
+          "createdAt": 1793940755254,
+          "updatedAt": 1793940763292,
+          "endedAt": 1793940763292,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4i0fxg-g",
+          "petId": "rem-bridal-1",
+          "name": "salute",
+          "status": "ended",
+          "createdAt": 1793940763300,
+          "updatedAt": 1793940771327,
+          "endedAt": 1793940771327,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4i174s-h",
+          "petId": "rem-bridal-1",
+          "name": "shush",
+          "status": "ended",
+          "createdAt": 1793940798556,
+          "updatedAt": 1793940806584,
+          "endedAt": 1793940806584,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4i1dc2-i",
+          "petId": "rem-bridal-1",
+          "name": "sneeze",
+          "status": "ended",
+          "createdAt": 1793940806594,
+          "updatedAt": 1793940814627,
+          "endedAt": 1793940814627,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4i1jjd-j",
+          "petId": "rem-bridal-1",
+          "name": "flute",
+          "status": "ended",
+          "createdAt": 1793940814633,
+          "updatedAt": 1793940822652,
+          "endedAt": 1793940822652,
+          "matched": true
+        },
+        {
+          "playbackId": "pb-mw4i1pqc-k",
+          "petId": "rem-bridal-1",
+          "name": "card-trick",
+          "status": "ended",
+          "createdAt": 1793940822660,
+          "updatedAt": 1793940830693,
+          "endedAt": 1793940830693,
+          "matched": true
+        }
+      ],
+      "browser": {
+        "cards": 67,
+        "videoElements": 68,
+        "allDecodedAt640x360": true,
+        "mediaErrors": 0,
+        "selectedCase": "card-trick"
+      },
+      "clickReactions": 12,
+      "allAssetsFormatChecked": true,
+      "previous59VideoFilesUnchanged": true,
+      "sleepAndWorkMappingsUnchanged": true,
+      "technicalChecks": {
+        "clap": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            217,
+            63,
+            423,
+            331
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.763,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "thumbs-up": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            217,
+            62,
+            423,
+            330
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.597,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "shrug": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            216,
+            60,
+            421,
+            330
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.731,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "shush": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            219,
+            62,
+            421,
+            330
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.579,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "sneeze": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            218,
+            61,
+            422,
+            330
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.64,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "salute": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            219,
+            64,
+            421,
+            331
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.653,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "flute": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            219,
+            63,
+            422,
+            331
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.64,
+          "visualReview": "四帧抽查通过；非逐帧人审",
+          "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
+        },
+        "card-trick": {
+          "frames": 192,
+          "canvas": [
+            640,
+            360
+          ],
+          "allFrameBounds": [
+            219,
+            63,
+            421,
+            331
+          ],
+          "distinctFrames": 192,
+          "firstLastMeanRgbaDifference": 0.636,
           "visualReview": "四帧抽查通过；非逐帧人审",
           "note": "数值检查不等于动作、手部或循环衔接的人审通过。"
         }

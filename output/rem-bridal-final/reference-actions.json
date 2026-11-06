@@ -120,35 +120,52 @@
   "selectedThisBatch": [
     {
       "id": "elegant-dance",
-      "sourceAction": "优雅女仆舞"
+      "title": "优雅女仆舞",
+      "referenceFile": "dsh-pet/assets/webm/优雅女仆舞.webm",
+      "referenceSha256": "74209c4c668545ab1e2366e0d1c0709b7bea0312eeba7e89b553d5b977bfe649"
     },
     {
       "id": "otaku-dance",
-      "sourceAction": "可爱宅舞"
+      "title": "可爱宅舞",
+      "referenceFile": "dsh-pet/assets/webm/可爱宅舞.webm",
+      "referenceSha256": "4f737e44ea67c20368bdce474b951902c87c37991fb0750da8ed7794df6ec55c"
     },
     {
       "id": "shuttlecock",
-      "sourceAction": "踢毽子"
+      "title": "踢毽子",
+      "referenceFile": "dsh-pet/assets/webm/踢毽子.webm",
+      "referenceSha256": "68937b619a44e9ca7ccdfe77e5657f7a9bfa238beb33768378b6f254a16f3dbd"
     },
     {
       "id": "gomoku",
-      "sourceAction": "下五子棋"
+      "title": "下五子棋",
+      "referenceFile": "dsh-pet/assets/webm/下五子棋.webm",
+      "referenceSha256": "0802b6b808f44846b3d194a857fb0ffd38bdea2d7cdb91c9e5e6f311e44f1953"
     },
     {
       "id": "sneaky-snack",
-      "sourceAction": "偷吃零食被抓住"
+      "title": "偷吃零食被抓住",
+      "referenceFile": "dsh-pet/assets/webm/偷吃零食被抓住.webm",
+      "referenceSha256": "c3b783351ad38fdd931e80b188ecb12d273f21e4794aed2c41f267bdb75ff897"
     },
     {
       "id": "meal-wait",
-      "sourceAction": "期待开饭"
+      "title": "期待开饭",
+      "referenceFile": "dsh-pet/assets/webm/期待开饭.webm",
+      "referenceSha256": "4999759c8c32af0b5400518084ade31c9445c4e5e3ea40218efa28f2e79d9c3e"
     },
     {
       "id": "snowman",
-      "sourceAction": "堆雪人"
+      "title": "堆雪人",
+      "referenceFile": "dsh-pet/assets/webm/堆雪人.webm",
+      "referenceSha256": "478bdc31cc60e55e3efa139b81c7d8680a8cf83aca2304495e6da50a20a09cf5"
     },
     {
       "id": "halloween-lantern",
-      "sourceAction": "讨糖南瓜灯"
+      "title": "讨糖南瓜灯",
+      "referenceFile": "dsh-pet/assets/webm/讨糖南瓜灯.webm",
+      "referenceSha256": "9535d1a29f780aa2d78ffaabd7ee1765952bf34b2b380e9edc25dc6a3003070b"
     }
-  ]
+  ],
+  "referenceFramesInspected": true
 }

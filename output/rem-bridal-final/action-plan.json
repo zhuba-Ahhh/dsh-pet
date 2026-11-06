@@ -1,58 +1,82 @@
 [
   {
-    "id": "clap",
-    "title": "开心鼓掌",
-    "group": "expression",
-    "pose": "Both palms gently meeting at chest height in a small clapping pose, eyes smiling, elbows low, no extra hands.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒双手在胸前轻轻鼓掌两三次，开心地眯眼微笑，然后放下双手。掌心不穿插、不拍出特效。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+    "id": "elegant-dance",
+    "title": "优雅女仆舞",
+    "group": "play",
+    "referenceAction": "优雅女仆舞",
+    "referenceFile": "dsh-pet/assets/webm/优雅女仆舞.webm",
+    "referenceSha256": "74209c4c668545ab1e2366e0d1c0709b7bea0312eeba7e89b553d5b977bfe649",
+    "pose": "Both hands gently holding outer sides of her own skirt without lifting hem, one shoe slightly crossing in front of the other, graceful tiny dance pose, modest smile.",
+    "action": "0-1秒保持图1统一无道具标准站姿；1-6秒双手轻扶裙侧，原地做一次小交叉步、左右轻摆，再做小幅优雅点头，双脚并拢。裙摆不掀起、不大转身、不旋转整圈。6-7秒收起所有道具，双手回身侧；7-8秒回到图1相同的无道具、睁眼微笑标准站姿并停稳。全身镜头固定，角色比例和中心位置不变，脚底基准固定，蹲下或抬脚时不缩放人物。"
   },
   {
-    "id": "thumbs-up",
-    "title": "给你点赞",
-    "group": "expression",
-    "pose": "One hand making a single simple thumbs-up at chest height, other hand relaxed at her side, visible blue eye looking at viewer, encouraging smile.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒抬起一只手，竖起一个清晰大拇指，轻轻点头鼓励，再把手放回身侧。手指自然，不张开其他手指。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+    "id": "otaku-dance",
+    "title": "可爱宅舞",
+    "group": "play",
+    "referenceAction": "可爱宅舞",
+    "referenceFile": "dsh-pet/assets/webm/可爱宅舞.webm",
+    "referenceSha256": "4f737e44ea67c20368bdce474b951902c87c37991fb0750da8ed7794df6ec55c",
+    "pose": "Both loosely closed hands beside cheeks below shoulders, elbows bent, one tiny shoe tapping, eyes smiling, cheerful small idol-dance pose.",
+    "action": "0-1秒保持图1统一无道具标准站姿；1-6秒双手在脸颊两侧做两次小节拍手势，原地点步轻摇，再双手在胸前短暂合拢，轻轻点头。无大跳跃、无整圈转身，手势始终低于花冠。6-7秒收起所有道具，双手回身侧；7-8秒回到图1相同的无道具、睁眼微笑标准站姿并停稳。全身镜头固定，角色比例和中心位置不变，脚底基准固定，蹲下或抬脚时不缩放人物。"
   },
   {
-    "id": "shrug",
-    "title": "摊手小无奈",
-    "group": "expression",
-    "pose": "Both palms facing up beside waist, shoulders slightly raised, head gently tilted, mild cute helpless smile, no symbols.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒轻耸肩，双手在腰部两侧掌心朝上摊开，露出一点可爱无奈，再放松恢复微笑。无问号、汗滴或文字。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+    "id": "shuttlecock",
+    "title": "踢毽子",
+    "group": "play",
+    "referenceAction": "踢毽子",
+    "referenceFile": "dsh-pet/assets/webm/踢毽子.webm",
+    "referenceSha256": "68937b619a44e9ca7ccdfe77e5657f7a9bfa238beb33768378b6f254a16f3dbd",
+    "pose": "One tiny lavender and ivory feather shuttlecock just above one raised shoe near ankle, the other shoe planted, both hands slightly out for balance, cheerful focused face. Shuttlecock remains below knee.",
+    "action": "0-1秒保持图1统一无道具标准站姿；1-6秒拿出一只小毽子，轻放到脚边空中，抬一只脚轻踢一下让毽子升至膝盖以下，再用手接住并收起。另一只脚保持支撑，裙型不变，不把毽子踢到头顶或画外。6-7秒收起所有道具，双手回身侧；7-8秒回到图1相同的无道具、睁眼微笑标准站姿并停稳。全身镜头固定，角色比例和中心位置不变，脚底基准固定，蹲下或抬脚时不缩放人物。"
   },
   {
-    "id": "salute",
-    "title": "认真敬礼",
-    "group": "expression",
-    "pose": "One hand held in a neat small salute near forehead without covering visible eye or touching crown, other arm relaxed, earnest smile.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒认真站直，一只手在额头旁小幅敬礼，轻轻点头，再放下手。不能移动花饰、遮住眼睛或改变头发。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+    "id": "gomoku",
+    "title": "下五子棋",
+    "group": "play",
+    "referenceAction": "下五子棋",
+    "referenceFile": "dsh-pet/assets/webm/下五子棋.webm",
+    "referenceSha256": "0802b6b808f44846b3d194a857fb0ffd38bdea2d7cdb91c9e5e6f311e44f1953",
+    "pose": "Holding ONE tiny warm ivory wooden gomoku board horizontally at waist in one hand, other hand placing ONE small black stone. Board has a simple thin 5 by 5 grid with three black and two ivory stones; no text, no table.",
+    "action": "0-1秒保持图1统一无道具标准站姿；1-6秒拿出一块迷你棋盘，一手托稳，另一手放下一颗小黑棋，低头思考后满意点头，再收起。棋盘只有细网格与少量黑白棋子，不出现桌椅、文字数字或额外手臂。6-7秒收起所有道具，双手回身侧；7-8秒回到图1相同的无道具、睁眼微笑标准站姿并停稳。全身镜头固定，角色比例和中心位置不变，脚底基准固定，蹲下或抬脚时不缩放人物。"
   },
   {
-    "id": "shush",
-    "title": "轻声嘘",
-    "group": "expression",
-    "pose": "One index finger held gently in front of her small closed smiling lips, visible blue eye softly looking at viewer, other hand relaxed. No words or symbols.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒把一只手的食指轻放在嘴唇前，温柔地做一次嘘的示意，眨一下眼，再把手放下。无声，不生成文字或气泡。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
-  },
-  {
-    "id": "sneeze",
-    "title": "掩口小喷嚏",
+    "id": "sneaky-snack",
+    "title": "偷吃零食被抓住",
     "group": "daily",
-    "pose": "One hand gently covering mouth and nose, eyes closed, shoulders slightly tucked, tiny forward head tilt, other hand relaxed. No sneeze particles or droplets.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒轻轻缩肩，一只手掩住口鼻，低头打一个很小的喷嚏，然后抬头微笑、放下手。幅度小，无飞沫、纸巾、病菌或额外特效。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+    "referenceAction": "偷吃零食被抓住",
+    "referenceFile": "dsh-pet/assets/webm/偷吃零食被抓住.webm",
+    "referenceSha256": "c3b783351ad38fdd931e80b188ecb12d273f21e4794aed2c41f267bdb75ff897",
+    "pose": "Holding ONE small ivory cookie with one hand close to lips, other hand lightly behind own back, visible eye slightly widened, cheeks softly rosy, cute caught-in-the-act smile.",
+    "action": "0-1秒保持图1统一无道具标准站姿；1-6秒悄悄拿出一块小饼干吃一小口，忽然看向用户、稍微睁大可见眼睛，害羞地把饼干藏到身后，然后收好并乖巧微笑。无第二人物、无文字或汗滴特效。6-7秒收起所有道具，双手回身侧；7-8秒回到图1相同的无道具、睁眼微笑标准站姿并停稳。全身镜头固定，角色比例和中心位置不变，脚底基准固定，蹲下或抬脚时不缩放人物。"
   },
   {
-    "id": "flute",
-    "title": "吹笛子",
-    "group": "play",
-    "pose": "Holding ONE short ivory flute horizontally below mouth with both hands, flute shorter than width of her head, elbows low, calm happy expression. No musical notes.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出一支短小象牙白笛子，双手持笛在嘴边轻吹两下，手指小幅移动，然后收起。笛子不穿过脸，无音符、音效、文字或额外乐器。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+    "id": "meal-wait",
+    "title": "期待开饭",
+    "group": "food",
+    "referenceAction": "期待开饭",
+    "referenceFile": "dsh-pet/assets/webm/期待开饭.webm",
+    "referenceSha256": "4999759c8c32af0b5400518084ade31c9445c4e5e3ea40218efa28f2e79d9c3e",
+    "pose": "Both hands gently rubbing together at chest height, shoulders slightly tucked, visible blue eye bright and expectant, delighted little smile. No food or utensils.",
+    "action": "0-1秒保持图1统一无道具标准站姿；1-6秒双手在胸前轻轻搓两下，期待地点点头、向前看，露出要开饭的小开心，再把双手自然放下。无食物、餐具、文字、口水或额外特效。6-7秒收起所有道具，双手回身侧；7-8秒回到图1相同的无道具、睁眼微笑标准站姿并停稳。全身镜头固定，角色比例和中心位置不变，脚底基准固定，蹲下或抬脚时不缩放人物。"
   },
   {
-    "id": "card-trick",
-    "title": "扑克小魔术",
-    "group": "play",
-    "pose": "Holding exactly THREE small blank ivory playing cards with lavender backs as a small fan at chest height with both hands, playful smile, no readable markings.",
-    "action": "0-1秒保持图1统一无道具站姿；1-6秒拿出三张小小的白紫色空白扑克牌，双手在胸前把牌轻轻展开成扇形，再合拢收起，俏皮地微笑。卡牌不飞出、不出现文字数字或额外道具。6-7秒所有道具收起，双手回身侧；7-8秒恢复图1完全相同的睁眼微笑标准站姿并停稳。原地动作，固定全身镜头，角色中心、头身比和脚底位置保持一致。"
+    "id": "snowman",
+    "title": "堆雪人",
+    "group": "season",
+    "referenceAction": "堆雪人",
+    "referenceFile": "dsh-pet/assets/webm/堆雪人.webm",
+    "referenceSha256": "478bdc31cc60e55e3efa139b81c7d8680a8cf83aca2304495e6da50a20a09cf5",
+    "pose": "ONE miniature ivory snowman beside her shoes, total height half her head, two round snowballs, small lavender scarf, tiny carrot nose and dark dot eyes; she bends slightly to place its head with both hands. No snow ground.",
+    "action": "0-1秒保持图1统一无道具标准站姿；1-6秒在脚边拿出两个小雪球，微微弯腰把小雪球叠到大雪球上，为迷你雪人轻整淡紫围巾，开心看一眼，再收起雪人并站好。无漫天雪花、雪地、房间、帽子或大雪人。6-7秒收起所有道具，双手回身侧；7-8秒回到图1相同的无道具、睁眼微笑标准站姿并停稳。全身镜头固定，角色比例和中心位置不变，脚底基准固定，蹲下或抬脚时不缩放人物。"
+  },
+  {
+    "id": "halloween-lantern",
+    "title": "讨糖南瓜灯",
+    "group": "season",
+    "referenceAction": "讨糖南瓜灯",
+    "referenceFile": "dsh-pet/assets/webm/讨糖南瓜灯.webm",
+    "referenceSha256": "9535d1a29f780aa2d78ffaabd7ee1765952bf34b2b380e9edc25dc6a3003070b",
+    "pose": "Holding ONE tiny orange pumpkin lantern bucket with a simple triangular-eye smiling face in both hands at chest, sweet hopeful smile, handle lavender. No green stem, no costume change or candles.",
+    "action": "0-1秒保持图1统一无道具标准站姿；1-6秒双手拿出一个小南瓜糖果灯篮，向用户轻轻递出、期待地歪头微笑，再收回并收起。南瓜无绿色部件、无火焰，不更换婚纱，不增加幽灵、蝙蝠、其他人物或文字。6-7秒收起所有道具，双手回身侧；7-8秒回到图1相同的无道具、睁眼微笑标准站姿并停稳。全身镜头固定，角色比例和中心位置不变，脚底基准固定，蹲下或抬脚时不缩放人物。"
   }
 ]

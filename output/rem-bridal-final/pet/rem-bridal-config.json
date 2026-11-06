@@ -71,7 +71,8 @@
           "fan",
           "brush-teeth",
           "take-notes",
-          "sneeze"
+          "sneeze",
+          "sneaky-snack"
         ]
       },
       {
@@ -89,7 +90,11 @@
           "magic-flower",
           "gamepad",
           "flute",
-          "card-trick"
+          "card-trick",
+          "elegant-dance",
+          "otaku-dance",
+          "shuttlecock",
+          "gomoku"
         ]
       },
       {
@@ -102,7 +107,8 @@
           "rice",
           "watermelon",
           "candied-fruit",
-          "breakfast"
+          "breakfast",
+          "meal-wait"
         ]
       },
       {
@@ -129,7 +135,9 @@
           "birthday-cake",
           "moon-viewing",
           "decorate-tree",
-          "red-envelope"
+          "red-envelope",
+          "snowman",
+          "halloween-lantern"
         ]
       }
     ],
